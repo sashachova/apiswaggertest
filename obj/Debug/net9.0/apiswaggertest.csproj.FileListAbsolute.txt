@@ -1,3 +1,9 @@
+/Users/aleksandratolmachova/Desktop/c#/apiswaggertest/apiswaggertest/obj/Debug/net9.0/apiswaggertest.csproj.AssemblyReference.cache
+/Users/aleksandratolmachova/Desktop/c#/apiswaggertest/apiswaggertest/obj/Debug/net9.0/apiswaggertest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandratolmachova/Desktop/c#/apiswaggertest/apiswaggertest/obj/Debug/net9.0/apiswaggertest.AssemblyInfoInputs.cache
+/Users/aleksandratolmachova/Desktop/c#/apiswaggertest/apiswaggertest/obj/Debug/net9.0/apiswaggertest.AssemblyInfo.cs
+/Users/aleksandratolmachova/Desktop/c#/apiswaggertest/apiswaggertest/obj/Debug/net9.0/apiswaggertest.csproj.CoreCompileInputs.cache
+/Users/aleksandratolmachova/Desktop/c#/apiswaggertest/apiswaggertest/obj/Debug/net9.0/apiswaggertest.sourcelink.json
 /Users/aleksandratolmachova/Desktop/c#/apiswaggertest/apiswaggertest/bin/Debug/net9.0/NUnit3.TestAdapter.pdb
 /Users/aleksandratolmachova/Desktop/c#/apiswaggertest/apiswaggertest/bin/Debug/net9.0/nunit.engine.dll
 /Users/aleksandratolmachova/Desktop/c#/apiswaggertest/apiswaggertest/bin/Debug/net9.0/nunit.engine.api.dll
@@ -143,11 +149,6 @@
 /Users/aleksandratolmachova/Desktop/c#/apiswaggertest/apiswaggertest/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 /Users/aleksandratolmachova/Desktop/c#/apiswaggertest/apiswaggertest/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 /Users/aleksandratolmachova/Desktop/c#/apiswaggertest/apiswaggertest/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-/Users/aleksandratolmachova/Desktop/c#/apiswaggertest/apiswaggertest/obj/Debug/net9.0/apiswaggertest.csproj.AssemblyReference.cache
-/Users/aleksandratolmachova/Desktop/c#/apiswaggertest/apiswaggertest/obj/Debug/net9.0/apiswaggertest.GeneratedMSBuildEditorConfig.editorconfig
-/Users/aleksandratolmachova/Desktop/c#/apiswaggertest/apiswaggertest/obj/Debug/net9.0/apiswaggertest.AssemblyInfoInputs.cache
-/Users/aleksandratolmachova/Desktop/c#/apiswaggertest/apiswaggertest/obj/Debug/net9.0/apiswaggertest.AssemblyInfo.cs
-/Users/aleksandratolmachova/Desktop/c#/apiswaggertest/apiswaggertest/obj/Debug/net9.0/apiswaggertest.csproj.CoreCompileInputs.cache
 /Users/aleksandratolmachova/Desktop/c#/apiswaggertest/apiswaggertest/obj/Debug/net9.0/apiswagg.B56F99C2.Up2Date
 /Users/aleksandratolmachova/Desktop/c#/apiswaggertest/apiswaggertest/obj/Debug/net9.0/apiswaggertest.dll
 /Users/aleksandratolmachova/Desktop/c#/apiswaggertest/apiswaggertest/obj/Debug/net9.0/refint/apiswaggertest.dll

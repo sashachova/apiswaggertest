@@ -146,9 +146,10 @@ namespace WordPressApiTests
             Assert.That(createdPost.Id, Is.GreaterThan(0), "Created post should have an ID");
             Assert.That(createdPost.Title.Rendered, Is.EqualTo(createData.title));
             Assert.That(createdPost.Content.Rendered, Does.Contain(createData.content));
-            Assert.That()
+            Assert.That(createdPost.Status, Does.Contain(createData.status));
+            
  
-            //add asserts
+            
             await Task.Delay(1000);
  
             
