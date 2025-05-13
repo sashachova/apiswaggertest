@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("apiswaggertest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9d154b87f50d3624aee2622d02e38765d5e6c8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("apiswaggertest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("apiswaggertest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
